@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a3ccd30-df70-42fb-9917-c974498b7149" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/local/ConprBankDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/local/ConprBankDriver.java" afterDir="false" />
+    <list default="true" id="8d6b4cb7-c63d-4956-9345-3e896156e96b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +17,9 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1YIK2A96Zog1NVFGFc2EHaG0s8a" />
+  <component name="ProjectId" id="1Ybr8jMwCQkG2wTKy2V7jDsCXAi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,17 +28,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../03_Condition_Synchronization" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -53,16 +49,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
-        </ENTRIES>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,14 +61,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a3ccd30-df70-42fb-9917-c974498b7149" name="Default Changelist" comment="" />
-      <created>1582624458193</created>
+      <changelist id="8d6b4cb7-c63d-4956-9345-3e896156e96b" name="Default Changelist" comment="" />
+      <created>1583221977245</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582624458193</updated>
-      <workItem from="1582624461044" duration="625000" />
-      <workItem from="1582633411537" duration="14000" />
-      <workItem from="1583166188371" duration="4288000" />
+      <updated>1583221977245</updated>
+      <workItem from="1583221980436" duration="147000" />
     </task>
     <servers />
   </component>
@@ -90,43 +74,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583166553184">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583222124743">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583166553184" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583170479361">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583222124743" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583222127017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583170479361" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583170479361">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583222127017" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583222127017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583170479361" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583170479361">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583222127017" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583222127017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583170479361" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583170479361">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583222127017" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583222127017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583170479361" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1582624735449">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583222127017" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1583222102070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582624735449" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582633419521">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582633419521" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/bank/local/ConprBankDriver.java</url>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583222102070" />
   </component>
 </project>
